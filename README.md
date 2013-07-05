@@ -18,4 +18,12 @@ So for example, the policy for United States drinking water in English would app
 
 	Earth/US/Drinking_water‎/EN/README
 
+In the recent weeks after reading a few articles (one published from Athens)concerning OS Legislation as a foundation 
+for OS policy design, we have decided to get this out now. The aim is to start importing policies from national 
+governments and begin to get to work on figuring out which parts of which policies can go together and what is missing,
+to make new,reasonable, and effective policies in general, which can then be made available OS.
+
+
+
+
 
